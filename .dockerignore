@@ -1,0 +1,17 @@
+.git
+.cache
+
+**/*.class
+
+*.md
+!README*.md
+README.md
+
+.gitignore
+
+/tasks
+/venv
+
+.env
+
+.env.example
