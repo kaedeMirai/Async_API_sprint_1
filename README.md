@@ -28,7 +28,7 @@
 1. Склонировать репозиторий
 
    ```
-   git clone https://github.com/Munewxar/Async_API_sprint_1.git
+   git clone https://github.com/kaedeMirai/Async_API_sprint_1.git
    ```
 2. Скопировать tests/functinonal/.env.example в tests/functinonal/.env (либо переименовать .env.example) и заполнить его (если это потребуется)
 3. В командной строке перейти в папку tests/functional (предполагается, что вы уже находитесь в корневой папке проекта)
